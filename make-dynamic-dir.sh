@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 ROOT_DIR=$1
 FILENAME=$2
